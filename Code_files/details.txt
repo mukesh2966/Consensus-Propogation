@@ -1,0 +1,54 @@
+Executed at GMT time: 16:7:48 26-11-2020
+GML File used: interval_gml ------&-------Algorithm used: graph
+Follwing records are for depth 3 of interval graph
+
+total nodes : 50, standard_deviation : 1.0400147162609034e-05
+total nodes : 100, standard_deviation : 8.60185292538549e-05
+total nodes : 150, standard_deviation : 0.0002926829671441076
+total nodes : 200, standard_deviation : 0.0006673048306384897
+total nodes : 250, standard_deviation : 0.0012869855405927514
+total nodes : 300, standard_deviation : 0.0023549992034219416
+total nodes : 350, standard_deviation : 0.0036735129316577894
+total nodes : 400, standard_deviation : 0.005418951068275439
+total nodes : 450, standard_deviation : 0.007847482747718657
+total nodes : 500, standard_deviation : 0.010965454050796918
+total nodes : 550, standard_deviation : 0.014631673419038104
+total nodes : 600, standard_deviation : 0.018066194424803523
+total nodes : 650, standard_deviation : 0.023536758675152356
+total nodes : 700, standard_deviation : 0.028744510991859266
+total nodes : 750, standard_deviation : 0.03570414942167686
+total nodes : 800, standard_deviation : 0.04423552354043136
+total nodes : 850, standard_deviation : 0.05326548660191875
+total nodes : 900, standard_deviation : 0.06272045801574862
+total nodes : 950, standard_deviation : 0.07242037663200268
+total nodes : 1000, standard_deviation : 0.08564141592015255
+
+.............................................
+
+Executed at GMT time: 16:8:3 26-11-2020
+GML File used: interval_gml ------&-------Algorithm used: graph
+Follwing records are for depth 4 of interval graph
+
+total nodes : 50, standard_deviation : 5.1185670648662835
+total nodes : 100, standard_deviation : 2.522497246375426
+total nodes : 150, standard_deviation : 2.2881300175736516
+total nodes : 200, standard_deviation : 3.9401967169476255
+total nodes : 250, standard_deviation : 9.035646471099604
+total nodes : 300, standard_deviation : 4.500703588164062
+total nodes : 350, standard_deviation : 2.468063109617967
+total nodes : 400, standard_deviation : 6.781747756827104
+total nodes : 450, standard_deviation : 5.899131191586978
+total nodes : 500, standard_deviation : 5.818292387045255
+total nodes : 550, standard_deviation : 10.519546862896297
+total nodes : 600, standard_deviation : 10.738693386411747
+total nodes : 650, standard_deviation : 9.526163837712858
+total nodes : 700, standard_deviation : 11.360881492598901
+total nodes : 750, standard_deviation : 12.35053381847915
+total nodes : 800, standard_deviation : 13.107369741136104
+total nodes : 850, standard_deviation : 17.29447818737724
+total nodes : 900, standard_deviation : 17.7528614075311
+total nodes : 950, standard_deviation : 19.371463553148665
+total nodes : 1000, standard_deviation : 23.06967492461626
+
+.............................................
+
